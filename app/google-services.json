@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "832707237548",
+    "project_id": "cozinha-da-mimi",
+    "storage_bucket": "cozinha-da-mimi.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:832707237548:android:8da2a61193eb86e227f109",
+        "android_client_info": {
+          "package_name": "br.com.fatec.cozinhadamimi"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDMAvh9vPY3enn3D9DKxwJ7lqO7Li5rP_U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
